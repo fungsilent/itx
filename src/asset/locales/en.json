@@ -1,0 +1,20 @@
+{
+    "translation": {
+        "languageName": "English",
+        "tasks": {
+            "title": "Tasks"
+        },
+        "addTask": {
+            "title": "Add Tasks"
+        },
+        "setting": {
+            "title": "Setting",
+            "theme": {
+                "mode": "Theme",
+                "light": "Light",
+                "dark": "Dark"
+            },
+            "language": "Language"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "translation": {
+        "languageName": "繁體中文",
+        "tasks": {
+            "title": "清單"
+        },
+        "addTask": {
+            "title": "增加項目"
+        },
+        "setting": {
+            "title": "設定",
+            "theme": {
+                "mode": "主題",
+                "light": "淺色",
+                "dark": "深色"
+            },
+            "language": "語言"
+        }
+    }
+}
